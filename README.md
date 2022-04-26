@@ -12,7 +12,7 @@
 
 # As a result, there is a need to explore other CI/CD tools like GITOPS abd GITHUB ACTIONS. 
 
-# Both tools runs only primary plugins - You do not have to worry about dependencies and incompatbility issues 
+# Both tools run primary plugins only - You do not have to worry about dependencies and incompatbility issues 
 
 # All major/primary plugins have their own docker container, making them easy to manage. 
 
